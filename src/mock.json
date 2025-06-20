@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "brand": "Tesla",
+    "model": "Model S",
+    "price": 79990,
+    "weight": 2108, 
+    "rating": 4.8,
+    "type": "Electric",
+    "imageUrl": "https://placehold.co/600x400/1E293B/FFFFFF?text=Tesla+Model+S",
+    "specifications": {
+      "range": "405 miles",
+      "topSpeed": "200 mph",
+      "acceleration": "1.99s 0-60mph",
+      "drivetrain": "AWD"
+    }
+  },
+  {
+    "id": 2,
+    "brand": "Ford",
+    "model": "Mustang Mach-E",
+    "price": 45995,
+    "weight": 2257, 
+    "rating": 4.5,
+    "type": "Electric",
+    "imageUrl": "https://placehold.co/600x400/1E293B/FFFFFF?text=Ford+Mustang+Mach-E",
+    "specifications": {
+      "range": "314 miles",
+      "topSpeed": "111 mph",
+      "acceleration": "5.8s 0-60mph",
+      "drivetrain": "RWD/AWD"
+    }
+  },
+  {
+    "id": 3,
+    "brand": "Porsche",
+    "model": "Taycan",
+    "price": 82700,
+    "weight": 2295, 
+    "rating": 4.7,
+    "type": "Electric",
+    "imageUrl": "https://placehold.co/600x400/1E293B/FFFFFF?text=Porsche+Taycan",
+    "specifications": {
+      "range": "227 miles",
+      "topSpeed": "161 mph",
+      "acceleration": "2.6s 0-60mph",
+      "drivetrain": "AWD"
+    }
+  },
+  {
+    "id": 4,
+    "brand": "Toyota",
+    "model": "Camry",
+    "price": 25295,
+    "weight": 1580, 
+    "rating": 4.2,
+    "type": "Sedan",
+    "imageUrl": "https://placehold.co/600x400/1E293B/FFFFFF?text=Toyota+Camry",
+    "specifications": {
+      "engine": "2.5L 4-Cylinder",
+      "mpg": "28/39",
+      "horsepower": "203 hp",
+      "drivetrain": "FWD"
+    }
+  },
+  {
+    "id": 5,
+    "brand": "Honda",
+    "model": "CR-V",
+    "price": 26800,
+    "weight": 1585, 
+    "rating": 4.6,
+    "type": "SUV",
+    "imageUrl": "https://placehold.co/600x400/1E293B/FFFFFF?text=Honda+CR-V",
+    "specifications": {
+      "engine": "1.5L Turbo",
+      "mpg": "28/34",
+      "horsepower": "190 hp",
+      "drivetrain": "FWD/AWD"
+    }
+  },
+  {
+    "id": 6,
+    "brand": "BMW",
+    "model": "X5",
+    "price": 60600,
+    "weight": 2189, 
+    "rating": 4.4,
+    "type": "SUV",
+    "imageUrl": "https://placehold.co/600x400/1E293B/FFFFFF?text=BMW+X5",
+    "specifications": {
+      "engine": "3.0L 6-Cylinder Turbo",
+      "mpg": "21/26",
+      "horsepower": "335 hp",
+      "drivetrain": "AWD"
+    }
+  },
+  {
+    "id": 7,
+    "brand": "Audi",
+    "model": "A4",
+    "price": 39100,
+    "weight": 1645, 
+    "rating": 4.3,
+    "type": "Sedan",
+    "imageUrl": "https://placehold.co/600x400/1E293B/FFFFFF?text=Audi+A4",
+    "specifications": {
+      "engine": "2.0L 4-Cylinder Turbo",
+      "mpg": "25/34",
+      "horsepower": "201 hp",
+      "drivetrain": "FWD/AWD"
+    }
+  },
+  {
+    "id": 8,
+    "brand": "Jeep",
+    "model": "Wrangler",
+    "price": 29995,
+    "weight": 1986, 
+    "rating": 4.0,
+    "type": "SUV",
+    "imageUrl": "https://placehold.co/600x400/1E293B/FFFFFF?text=Jeep+Wrangler",
+    "specifications": {
+      "engine": "3.6L V6",
+      "mpg": "20/24",
+      "horsepower": "285 hp",
+      "drivetrain": "4WD"
+    }
+  }
+]
